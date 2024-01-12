@@ -29,8 +29,6 @@ const selectCard = (event) => {
 
     card.classList.add("red");
     FRACTION.textContent = number + "/3";
-    card.classList.add("red");
-    FRACTION.textContent = number + "/3";
   }
 };
 
